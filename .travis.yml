@@ -6,9 +6,6 @@ deploy:
   api_token:
     secure: SvmoKbQXqONeHgDUJgM+ogmLec2zlV0ScNxp2mh0ICUtGwst5e7m2qxcSpOyN8Zr0nyiE3DBJGKjNVujd5kP+oF8/RCXLQaVGcSGw4719EmEYdCMxKeHmKfvUprS+q2iZK9JPdo2BG3ZlqJSSS0VZ0IGPG81bRrlm2IXvlqUQlA/mnBIkhvmpBmVOWIikdY6A8SBDrE3D72bnelJfy/VJHfmc61Tm4DP4o/cMvxWfAxQBWtH4VLtjKgGlBPRHX6SkzwaTcidU2UGRVpLqqyhovCWk2lVuLUSGZq+Q96b0Vfkkm8tyuIWDTXt1lX6ypHbhyrs76Mcea8cRbeKeC1rI2EuFj4RNHK9h94U3yMcvMls8n5lJO3zcu4T1Xoq4/9kZYi3W5b6qv7JMXneu6u8+jENzkVN8+0yfwXrNUjhgLPGkeXoCRmk0BRiC2DycBci+ZuJ65dRiQ7Dhnx54Fgqyzmd+BpFWwuKlF+4nn8jAuLRUejlMp7JpVyZewrADcn+t6g5VvOtDM3cx8Pv/T3rSBMIenh88vCKwR2KQVakA8fsvkTEvliozgB5y2j2UJAbAu8ODIi80lvjt8B90STggMAmH52h3pBrY2OftEjPfXHsf84EOXnfmhOfrTlE56GAzJvX5EPqGNgRcQ77RnsyX4feSZDzo3J2sAJQjxbptsU=
   edge: true
-  language: python
-python:
-  - 3.8
 script:
   - ./path/to/your/custom/script.sh
 
